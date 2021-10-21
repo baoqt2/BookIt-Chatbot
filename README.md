@@ -5,4 +5,5 @@ In order to succeed taking a cosmetics appointment from a customer, BookIt is ca
 
 BookIt can also send out a reminder 30 minutes prior a booked appointment. In the text reminder, the customer has an option to cancel the appointment by texting ‘cancel’ or ‘c’.
 
+![image](https://user-images.githubusercontent.com/57159268/138344022-7bfce32e-ebf8-4c27-a5bb-1c3257c2a100.png)
 
